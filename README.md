@@ -17,3 +17,7 @@ https://github.com/alessia0498/SE_Gruppo10_admin
 ## Frontend Planner Repository
 
 https://github.com/marco741/SE_Gruppo10_planner
+
+## Excels for Scrum
+
+https://drive.google.com/drive/folders/1SEgZLsnLdjL8-Rf03bco7VrMI2TRzBa_?usp=sharing
