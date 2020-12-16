@@ -2034,7 +2034,7 @@ Shadow=0
 <o:ReferenceSymbol Id="o7">
 <a:CreationDate>1608133606</a:CreationDate>
 <a:ModificationDate>1608133609</a:ModificationDate>
-<a:Rect>((-6433,658), (-546,2277))</a:Rect>
+<a:Rect>((-6433,658), (-546,2305))</a:Rect>
 <a:ListOfPoints>((-946,1283),(-6033,1283))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
@@ -2495,12 +2495,12 @@ Table.Comment 0</a:SymbolContent>
 <a:Code>RELATIONAL_MODEL</a:Code>
 <a:CreationDate>1607527472</a:CreationDate>
 <a:Creator>the-b</a:Creator>
-<a:ModificationDate>1608133534</a:ModificationDate>
+<a:ModificationDate>1608143983</a:ModificationDate>
 <a:Modifier>the-b</a:Modifier>
 <a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/Relational Model.ldm</a:TargetModelURL>
 <a:TargetModelID>A9609C7F-493A-4625-B0CC-DD7A9B70A9F9</a:TargetModelID>
 <a:TargetModelClassID>5F45F978-C4F3-4E35-A3FC-AF3318663A0F</a:TargetModelClassID>
-<a:TargetModelLastModificationDate>1608133534</a:TargetModelLastModificationDate>
+<a:TargetModelLastModificationDate>1608143983</a:TargetModelLastModificationDate>
 <c:SessionShortcuts>
 <o:Shortcut Ref="o3"/>
 </c:SessionShortcuts>
